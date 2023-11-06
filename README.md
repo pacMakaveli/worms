@@ -1,0 +1,3 @@
+I'm really passionate about mobile games, and I'm sure many of you can relate. It's frustrating when games are inundated with ads and microtransactions, right? That's why I've decided to roll up my sleeves and create my very own games.
+
+I've always had a soft spot for strategy games, like Tribal Wars, where you get to build armies, take on challenges, and add your personal touch with clothing, gems, and more. It's an exciting journey, and I've started with my first Ruby game, Worms. It's a learning process, and I hope to transition to creating more games in the future, ultimately building up the confidence to develop a game like Tribal Wars, offering a fresh and fun alternative in the gaming world.
